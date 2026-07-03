@@ -1,0 +1,7 @@
+numpy
+scipy
+sounddevice
+soundfile
+PyQt6
+matplotlib
+opencv-python
